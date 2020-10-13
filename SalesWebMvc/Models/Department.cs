@@ -15,9 +15,8 @@ namespace SalesWebMvc.Models
         {
         }
 
-        public Department(int iD, string name)
+        public Department(string name)
         {
-            ID = iD;
             Name = name;
         }
 

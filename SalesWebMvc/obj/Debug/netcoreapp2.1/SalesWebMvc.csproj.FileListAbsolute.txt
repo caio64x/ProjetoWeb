@@ -53,7 +53,6 @@ C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\Sales
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
@@ -84,3 +83,4 @@ C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\Sales
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
