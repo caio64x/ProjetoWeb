@@ -11,12 +11,14 @@ namespace SalesWebMvc.Models
     public class Seller //vendedor
     {
         public int Id { get; set; } //id do vendedor
+        public int DepartmentId { get; set; } //ID do departamento
         public string Name { get; set; } //Nome do vendedor
         public string Email { get; set; } //Email do vendedor
         public DateTime BirthDate { get; set; } //Data de aniversario do vendedor
         public double BaseSalary { get; set; } //base de salario do vendedor
         public Department Department { get; set; } //associação unica
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>(); //associação para muitos
+        
 
         public Seller()
         {
