@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="SistemaSales" />
+  <setParameter name="SalesWebMvc.Data.SalesWebMvcContext" value="Data Source=localhost\SQLEXPRESS;Initial Catalog=SalesWebMvc;User Id=SA;Password=123123; Integrated Security=false;" />
+</parameters>
