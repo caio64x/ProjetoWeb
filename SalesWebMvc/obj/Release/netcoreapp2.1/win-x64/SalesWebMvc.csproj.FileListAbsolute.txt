@@ -1,11 +1,8 @@
-C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\web.config
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\appsettings.Development.json
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\appsettings.json
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\Properties\launchSettings.json
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\Properties\serviceDependencies.json
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\Properties\serviceDependencies.local.json
-C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
-C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\SalesWebMvc.exe
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\SalesWebMvc.deps.json
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\SalesWebMvc.runtimeconfig.json
@@ -49,3 +46,4 @@ C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Release\netcoreapp2.1\win
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Release\netcoreapp2.1\win-x64\SalesWebMvc.pdb
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Release\netcoreapp2.1\win-x64\SalesWebMvc.genruntimeconfig.cache
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Release\netcoreapp2.1\win-x64\SalesWebMvc.csproj.CopyComplete
+C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Release\netcoreapp2.1\win-x64\hostsettings.json

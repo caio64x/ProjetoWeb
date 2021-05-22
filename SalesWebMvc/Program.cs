@@ -13,6 +13,8 @@ namespace SalesWebMvc
 {
     public class Program
     {
+
+
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
@@ -22,7 +24,9 @@ namespace SalesWebMvc
                 .UseContentRoot(Directory.GetCurrentDirectory())
                 .UseConfiguration(config)
                 .UseIISIntegration()
+                
                 .UseStartup<Startup>()
+
                 .Build();
 
             host.Run();
@@ -30,6 +34,8 @@ namespace SalesWebMvc
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseUrls("https://192.168.5.112:8080")
+            
                 .UseStartup<Startup>();
 
     }

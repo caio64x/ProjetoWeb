@@ -85,7 +85,7 @@ C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\Sales
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
-C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\web.config
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\facudade\devs\ProjetoWeb\ProjetoWeb\SalesWebMvc\bin\Debug\netcoreapp2.1\hostsettings.json

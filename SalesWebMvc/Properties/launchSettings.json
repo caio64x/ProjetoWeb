@@ -2,13 +2,9 @@
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
-    "iis": {
-      "applicationUrl": "http://localhost/SalesWebMvc",
-      "sslPort": 0
-    },
     "iisExpress": {
-      "applicationUrl": "http://localhost:52391",
-      "sslPort": 44388
+      "applicationUrl": "https://192.168.5.112:8080",
+      "sslPort": 44356
     }
   },
   "profiles": {
@@ -16,16 +12,24 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     },
-    "SalesWebMvc": {
+    "IISProfile": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
+        "applicationUrl": "https://192.168.1.170:8080",
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      }
+    },
+    "salesweb": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://192.168.1.170:8080",
+      "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "applicationUrl": "https://localhost:5001;http://localhost:5000"
+      }
     }
   }
 }

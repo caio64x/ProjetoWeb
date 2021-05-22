@@ -6,6 +6,11 @@ ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.mi
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\caio\Desktop\new</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\aspnet_client\SalesWebMvc</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SalesWebMvcContext">
+      <Value>Data Source=localhost\SQLEXPRESS%3bInitial Catalog=SalesWebMvc%3bUser Id=SA%3bPassword=123123%3b Integrated Security=false%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>
